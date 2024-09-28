@@ -11,6 +11,9 @@ BMI Calculation: Calculates BMI based on user input and categorizes it as underw
 
 Error Handling: Alerts if fields are left empty, have inches listed less than 0 or more than 11 or contain invalid values.
 
+## Explanation Video
+https://humberital-my.sharepoint.com/:v:/g/personal/n01547963_humber_ca/ERVYzB8ztOBCq6yfvM806A0BhwxUBlBRA5iaeZPlt_t9Hw?e=KIwShR&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 ## Screenshots
 
 ### Layout of the app
